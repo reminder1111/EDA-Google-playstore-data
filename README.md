@@ -5,6 +5,10 @@ This project is a simple Exploratory Data Analysis (EDA) of Google Play Store ap
 ## Dataset
 
 The analysis uses the `googleplaystore.csv` file included in this repository.  
+
+Based on the file name and the column structure, this dataset appears to match the Kaggle Google Play Store Apps dataset that is commonly used for EDA practice:
+[Kaggle Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+
 This dataset contains app details such as:
 - app name
 - category
